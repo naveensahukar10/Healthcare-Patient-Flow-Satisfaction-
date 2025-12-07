@@ -4,11 +4,11 @@ This project focuses on analyzing patient visits, demographics, wait times, and 
 The dashboard offers both high-level KPIs and deep-dive trend analysis across daily, monthly, quarterly, and yearly dimensions.
 
 🎯 Project Objectives
-Track and monitor overall patient visits
-Analyze demographics and visit patterns
-Evaluate waiting time efficiency
-Measure patient satisfaction
-Support data-driven healthcare operations
+- Track and monitor overall patient visits
+- Analyze demographics and visit patterns
+- Evaluate waiting time efficiency
+- Measure patient satisfaction
+- Support data-driven healthcare operations
 
 📝 Project Description
 An interactive Healthcare Data Analysis Dashboard was designed to visualize key hospital performance indicators such as:
